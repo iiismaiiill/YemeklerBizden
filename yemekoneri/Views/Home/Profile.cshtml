@@ -1,0 +1,213 @@
+﻿@model yemekoneri.Entities.Kullanici
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+<div class="modal fade" id="addFood" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Yemek Ekle</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <input class="form-control" type="number" hidden asp-for="KullaniciId" />
+                </div>
+                <div class="form-group">
+                    <label for="YemekAdi">Yemek Adı</label>
+                    <textarea id="YemekAdi" class="form-control" name="YemekAdi"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="YemekAciklamasi">Yemek Açıklaması</label>
+                    <textarea id="YemekAciklamasi" class="form-control" name="YemekAciklamasi"></textarea>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">İptal</button>
+                <button onclick="addFood()" type="button" class="btn btn-primary">Yemek Ekle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="updateComment" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Yorumu Güncelle</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <input class="form-control" type="number" hidden name="commentId" id="commentId" />
+                </div>
+                <div class="form-group">
+                    <label for="yorum">Yorum</label>
+                    <textarea id="yorum" class="form-control" name="yorum"></textarea>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">İptal</button>
+                <button onclick="updateYorumAjax()" type="button" class="btn btn-primary">Yorumu Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="modal fade" id="updateFood" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Yemek Bilgilerini Güncelle</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <input class="form-control" type="number" hidden name="foodId" id="foodId" />
+                </div>
+                <div class="form-group">
+                    <label for="footdTitle">Yemek Adı</label>
+                    <textarea id="footdTitle" class="form-control" name="footdTitle"></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="foodDetail">Açıklaması</label>
+                    <textarea id="foodDetail" class="form-control" name="foodDetail"></textarea>
+                </div>
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">İptal</button>
+                <button onclick="updateYemekAjax()" type="button" class="btn btn-primary">Yemek Bilgilerini Güncelle</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="row justify-content-center mb-3 ">
+        <div class="col-md-10 profile_bg">
+            <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a asp-action="MainPage">Anasayfa</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Profil</li>
+                </ol>
+            </nav>
+
+            <button class="btn btn-primary btn-block my-2" data-toggle="modal" data-target="#addFood">Yemek Ekle</button>
+        </div>
+        
+    </div>
+    
+
+    <div class="row justify-content-center">
+
+        <div class="col-md-10">
+            <!--Kullanıcı Bilgileri Başlangıç-->
+            <div class="row justify-content-start">
+                <div class="col-md-12 profile_bg p-3">
+                    <div class="form-group">
+                        <label asp-for="Name">İsim</label>
+                        <input type="text" asp-for="Name" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="SurName">Soyisim</label>
+                        <input type="text" asp-for="SurName" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email">Email Adresiniz</label>
+                        <input type="text" asp-for="Email" class="form-control" />
+                    </div>
+                    <button onclick="updatePersonDetail()" class="btn btn-outline-primary">Bilgileri Güncelle</button>
+                    <button class="btn btn-outline-danger" onclick="byPass()">Üyeliği İptal Et</button>
+                </div>
+            </div>
+            <!--Kullanıcı Bilgileri Bitişi-->
+            <!--Şifre Değiştir-->
+            <div class="row justify-content-start mt-3">
+                <div class="col-md-12 profile_bg p-3">
+                    <h3>Şifreni Yenile</h3>
+                    <div class="form-group">
+                        <label asp-for="Password">Şimdiki Şifreniz</label>
+                        <input type="text" asp-for="Password" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="PasswordNew">Yeni Şifreniz</label>
+                        <input type="text" id="PasswordNew" name="PasswordNew" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="PasswordRe">Yeni Şifreniz( Tekrar )</label>
+                        <input type="text" id="PasswordRe" name="PasswordRe" class="form-control" />
+                    </div>
+
+                    <button class="btn btn-outline-primary" onclick="updatePassword()">Bilgileri Güncelle</button>
+                </div>
+            </div>
+            <!--Şifre Değiştir-->
+            <!--Yorumlar Tablosu Başlanıç-->
+            <div class="row justify-content-start mt-5">
+                <div class="col-md-12 ">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr class="bg-info text-white">
+                                <td>Yorum İçeriği</td>
+                                <td>İşlemler</td>
+                            </tr>
+                        </thead>
+                        <tbody id="yorumlar">
+                            <tr>
+                                <td>örnek veri</td>
+                                <td>
+                                    <button class="btn btn-outline-danger "><i class="fas fa-trash-alt"></i>&nbsp;Sil</button>
+                                    <button data-toggle="modal" data-target="#updateComment" class="btn btn-outline-primary"><i class="fas fa-sync"></i>&nbsp;Güncelle</button>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--Yorumlar Tablosu Bitişi-->
+            <!--Yemekler Tablosu Başlangıç-->
+            <div class="row justify-content-start mt-5">
+                <div class="col-md-12">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <td>Yemek Adı</td>
+                                <td>Yemek Açıklaması</td>
+                                <td>İşlemler</td>
+                            </tr>
+                        </thead>
+                        <tbody id="yemekler">
+                            <tr>
+                                <td>örnek yemek adı</td>
+                                <td>örnek yemek açıklaması </td>
+                                <td>
+                                    <button class="btn btn-outline-danger "><i class="fas fa-trash-alt"></i>&nbsp;Sil</button>
+                                    <button data-toggle="modal" data-target="#updateFood" class="btn btn-outline-primary"><i class="fas fa-sync"></i>&nbsp;Güncelle</button>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            <!--Yemekler Tablosu Başlangıç-->
+
+
+        </div>
+    </div>
+
+</div>
+@section Scripts{ 
+    <script src="~/js/profile.js"></script>
+}

@@ -1,0 +1,62 @@
+﻿@model yemekoneri.Entities.Yemek
+@{
+    ViewData["Title"] = "FoodDetail";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+
+    <input type="hidden" name="yemekId" id="yemekId" value="@Model.YemekId" />
+<div class="container mt-5" id="topContainer">
+    <div class="row">
+        <h3>@Model.YemekAdi</h3>
+        <hr />
+        <p>
+            @Model.YemekAciklamasi
+        </p>
+    </div>
+    <hr />
+    <h3>Yorumlar Ekle</h3>
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="YorumMail">Mail Adresi</label>
+                <input type="text"
+                       id="YorumMail"
+                       name="YorumMail"
+                       class="form-control" />
+            </div>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="form-group">
+                <label for="YorumAciklama">Yorum İçerik</label>
+                <textarea name="YorumAciklama"
+                          class="form-control"
+                          id="YorumAciklama"
+                          cols="30"
+                          rows="10"></textarea>
+                <button onclick="SendComment()" class="btn btn-outline-success btn-block mt-2">
+                    <i class="fas fa-pen-alt"></i>&nbsp;Yorumu Gönder
+                </button>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <div class="row mb-4 d-none" id="commentExample">
+        <div class="col-md-2 text-right">
+            <i class="fas fa-user-alt personIcon"></i>
+        </div>
+        <div class="col-md-10">
+            <h3 class="yorumKisi">Kişi İsmi</h3>
+            <p class="yorumAciklama">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Praesentium, tenetur blanditiis atque quis aliquid saepe.
+            </p>
+        </div>
+    </div>
+</div>  
+@section Scripts{ 
+    <script src="~/js/foodDetail.js"></script>
+}

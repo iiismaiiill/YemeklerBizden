@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yemekoneri", "yemekoneri\yemekoneri.csproj", "{CE52E670-2056-4666-817F-55FA0FEE0606}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yemekoneri.webapi", "yemekoneri.webapi\yemekoneri.webapi.csproj", "{FAAF385A-1236-466A-9B5F-B8B16327E79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE52E670-2056-4666-817F-55FA0FEE0606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE52E670-2056-4666-817F-55FA0FEE0606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE52E670-2056-4666-817F-55FA0FEE0606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE52E670-2056-4666-817F-55FA0FEE0606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAF385A-1236-466A-9B5F-B8B16327E79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAF385A-1236-466A-9B5F-B8B16327E79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAF385A-1236-466A-9B5F-B8B16327E79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAF385A-1236-466A-9B5F-B8B16327E79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5560D7-1449-4ADC-844E-4D155A3F9E56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light p-3">
+    <a class="navbar-brand" href="#">Yemek Öneri </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Anasayfa <span class="sr-only">(current)</span></a>
+            </li>
+
+    </div>
+</nav>
+
+<div class="container">
+    <div class="row mt-5">
+
+
+        <div class="jumbotron border p-5 border-danger">
+            <h1 class="display-4">Yemek Önerme Sitesi</h1>
+            <p class="lead">Kullanıcı Girişi Yaparak Yemek Önerilerine Bakabilirsin.</p>
+            <hr class="my-4">
+            <p>Alt kısımdaki butonlardan giriş yapabilirsin,  hesabın yoksa hemen kaydol!</p>
+            <a asp-action="Login" asp-controller="Account" class="btn btn-lg btn-outline-primary"><i class="fas fa-sign-in-alt"></i>&nbsp;Giriş Yap</a>
+            <a asp-action="SignIn" asp-controller="Account" class="btn btn-lg btn-outline-success"><i class="fas fa-user-plus"></i>&nbsp;Kayıt Ol</a>
+            <a asp-action="AdminLogin" asp-controller="Account" class="btn btn-lg btn-outline-secondary"><i class="fas fa-user-shield"></i>&nbsp;Admin Girişi</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,272 @@
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.Views.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.Views.pdb
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.exe
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.StaticWebAssets.xml
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.exe
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.deps.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.runtimeconfig.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.runtimeconfig.dev.json
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.pdb
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de.lkraemer.nemmet.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de.lkraemer.tagbuilder.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\RestSharp.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.pdb
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csprojAssemblyReference.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.AssemblyInfoInputs.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.AssemblyInfo.cs
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csproj.CoreCompileInputs.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.RazorTargetAssemblyInfo.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csproj.CopyComplete
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\staticwebassets\yemekoneri.webapi.StaticWebAssets.Manifest.cache
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\staticwebassets\yemekoneri.webapi.StaticWebAssets.xml
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.dll
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.pdb
+F:\User\Desktop\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.genruntimeconfig.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\appsettings.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.Views.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.Views.pdb
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.exe
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.StaticWebAssets.xml
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.exe
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.deps.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.runtimeconfig.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.runtimeconfig.dev.json
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.webapi.pdb
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de.lkraemer.nemmet.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de.lkraemer.tagbuilder.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\RestSharp.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\bin\Debug\netcoreapp3.1\yemekoneri.pdb
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csprojAssemblyReference.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.AssemblyInfoInputs.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.AssemblyInfo.cs
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csproj.CoreCompileInputs.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.MvcApplicationPartsAssemblyInfo.cs
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.MvcApplicationPartsAssemblyInfo.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.RazorTargetAssemblyInfo.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.csproj.CopyComplete
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\staticwebassets\yemekoneri.webapi.StaticWebAssets.Manifest.cache
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\staticwebassets\yemekoneri.webapi.StaticWebAssets.xml
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.dll
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.pdb
+F:\User\Desktop\test apps\yemekoneri\yemekoneri\yemekoneri\yemekoneri.webapi\obj\Debug\netcoreapp3.1\yemekoneri.webapi.genruntimeconfig.cache
